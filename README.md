@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Привет всем 👋
+###  Я научный эксперимент 
+###  расскажите о себе 
 
 <!--
 **Serena1212/Serena1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
